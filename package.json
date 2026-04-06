@@ -1,0 +1,27 @@
+{
+  "name": "peak-nutrition",
+  "version": "1.0.0",
+  "description": "Peak Nutrition Winnipeg - High-Protein Tiffin Service",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GurveerSingh01/PeakNutrition.git"
+  },
+  "keywords": [
+    "nutrition",
+    "meal-service",
+    "tiffin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GurveerSingh01/PeakNutrition/issues"
+  },
+  "homepage": "https://github.com/GurveerSingh01/PeakNutrition#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
